@@ -2,9 +2,12 @@
 
 I am now an Ph.D. student in [Dept.of Computer Science, Sun Yat-sen University, China](http://sdcs.sysu.edu.cn). My advior is [Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490) 
 
-  >Kailun Luo'
+  >Kailun Luo
+  
   >No.132 East Waihuan Road, Higher Education Mega center,510006, Guangzhou,China
+  
   >Tel: +86-15915711238
+  
   >Email: luokl3@mail2.sysu.edu.cn
 
 
