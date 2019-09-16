@@ -2,9 +2,9 @@
 
 
 
-## About Me
+### About Me
 
-My main research area is Knowledge Representation and Reasoning of Artificial Intelligence. My research interest is Reasoning about Actions, Situation Calculus, Generalized forms of AI Planning, Verification and Synthesis of Strategy. I am now an Ph.D. student in Sun Yat-sen University, China.
+My main research area is Knowledge Representation and Reasoning of Artificial Intelligence. My research interest is Reasoning about Actions, Situation Calculus, Generalized forms of AI Planning, Verification and Synthesis of Strategy. I am now an Ph.D. student in [Sun Yat-sen University](http://sdcs.sysu.edu.cn), China. My advior is [Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490)
 
 ### Markdown
 
