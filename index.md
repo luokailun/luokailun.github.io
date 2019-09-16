@@ -1,21 +1,27 @@
-# Kailun Luo (luokailun for chinese) 
+# Kailun Luo 
+
+I am now an Ph.D. student in [Dept.of Computer Science, Sun Yat-sen University, China](http://sdcs.sysu.edu.cn). My advior is [Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490) 
+
+  _Kailun Luo'
+  _No.132 East Waihuan Road, Higher Education Mega center,510006, Guangzhou,China
+  _Tel: +86-15915711238
+  _Email: luokl3@mail2.sysu.edu.cn
 
 
 
-### About Me
+### Research
 
-My main research area is Knowledge Representation and Reasoning of Artificial Intelligence. My research interest is Reasoning about Actions, Situation Calculus, Generalized forms of AI Planning, Verification and Synthesis of Strategy. I am now an Ph.D. student in [Sun Yat-sen University](http://sdcs.sysu.edu.cn), China. My advior is [Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490)
+My main research area is Knowledge Representation and Reasoning of Artificial Intelligence. My research interest is Reasoning about Actions, Situation Calculus, Verification and Synthesis of Generalized forms of Strategies. 
+
+
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
