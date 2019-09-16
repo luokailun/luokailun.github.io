@@ -1,10 +1,10 @@
-## Welcome Kailun Luo's Academic Reseach Page
+# Kailun Luo (luokailun for chinese) 
 
-hello world????
 
-You can use the [editor on GitHub](https://github.com/luokailun/luokailun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+
+My main research area is Knowledge Representation and Reasoning of Artificial Intelligence. My research interest is Reasoning about Actions, Situation Calculus, Generalized forms of AI Planning, Verification and Synthesis of Strategy. I am now an Ph.D. student in Sun Yat-sen University, China.
 
 ### Markdown
 
