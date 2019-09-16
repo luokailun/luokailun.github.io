@@ -22,23 +22,7 @@ My main research area is Knowledge Representation and Reasoning of Artificial In
 
 ### Education
 
-- B.S., in Computer Science in South China Normal University, 09/2013 - 06/2015
-- M.S., in Computer Science in Sun Yat-sen University, 09/2009 - 06/2013
+- B.S., Computer Science, [South China Normal University](http://cs.scnu.edu.cn), 09/2013 - 06/2015
+- M.S., Computer Science, Sun Yat-sen University, 09/2009 - 06/2013
 
 
-
-```
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
