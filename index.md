@@ -16,26 +16,24 @@ I am now an Ph.D. student in [Dept.of Computer Science, Sun Yat-sen University, 
 
 My main research area is Knowledge Representation and Reasoning of Artificial Intelligence. My research interest is Reasoning about Actions, Situation Calculus, Verification and Synthesis of Generalized forms of Strategies. 
 
+### Papers
+
+- Kailun Luo, Yongmei Liu. Automatic Verification of FSA Strategies via Counterexample-Guided Local Search for Invariants. IJCAI-2019 [DBLP](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun)
+
+### Education
+
+- B.S., in Computer Science in South China Normal University, 09/2013 - 06/2015
+- M.S., in Computer Science in Sun Yat-sen University, 09/2009 - 06/2013
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-
-
-
+```
 - Bulleted
 - List
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
