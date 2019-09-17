@@ -1,7 +1,7 @@
 # Kailun Luo 
 ![mypc](pc.jpg)
 
-I am now an Ph.D. student in [Dept.of Computer Science of Sun Yat-sen University](http://sdcs.sysu.edu.cn). My advisor is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490)
+I am now an Ph.D. student in [Dept.of Computer Science in Sun Yat-sen University](http://sdcs.sysu.edu.cn). My advisor is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490).
 
 
   >Kailun Luo
@@ -17,7 +17,7 @@ I am now an Ph.D. student in [Dept.of Computer Science of Sun Yat-sen University
 
 ### Research
 
-My main research area is Knowledge Representation and Reasoning of Artificial Intelligence. My research interest is Reasoning about Actions, Situation Calculus, Verification and Synthesis of Generalized forms of Strategies. 
+My main research area is Knowledge Representation and Reasoning in Artificial Intelligence. My research interest is Reasoning about Actions, Situation Calculus, Verification and Synthesis of Generalized forms of Strategies. 
 
 ### Papers
 
