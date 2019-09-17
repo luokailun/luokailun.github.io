@@ -27,6 +27,6 @@ My main research area is Knowledge Representation and Reasoning of Artificial In
 
 ### Activities
 
-Presentations in [IJCAI-19](https://www.ijcai19.org), [KRW-2019](http://kr2019.sgmtu.edu.cn) and KRW-2016
+Presentations in [IJCAI-19](https://www.ijcai19.org), [KRW-2019](http://kr2019.sgmtu.edu.cn), KRW-2016
 
 
