@@ -1,4 +1,5 @@
 # Kailun Luo 
+![mypc](pc.jpg)
 
 I am now an Ph.D. student in [Dept.of Computer Science of Sun Yat-sen University](http://sdcs.sysu.edu.cn). My advior is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490)
 
