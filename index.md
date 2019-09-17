@@ -1,6 +1,6 @@
 # Kailun Luo 
 
-I am now an Ph.D. student in [Dept.of Computer Science, Sun Yat-sen University, China](http://sdcs.sysu.edu.cn). My advior is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490) 
+I am now an Ph.D. student in [Dept.of Computer Science of Sun Yat-sen University](http://sdcs.sysu.edu.cn). My advior is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490)
 
   >Kailun Luo
   
@@ -24,5 +24,9 @@ My main research area is Knowledge Representation and Reasoning of Artificial In
 
 - B.S., Computer Science, [South China Normal University](http://cs.scnu.edu.cn), 09/2013 - 06/2015
 - M.S., Computer Science, [Sun Yat-sen University](http://sdcs.sysu.edu.cn), 09/2009 - 06/2013
+
+### Activities
+
+Presentations in [IJCAI-19](https://www.ijcai19.org), [KRW-2019](http://kr2019.sgmtu.edu.cn) and KRW-2016
 
 
