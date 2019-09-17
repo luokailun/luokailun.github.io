@@ -18,7 +18,7 @@ My main research area is Knowledge Representation and Reasoning of Artificial In
 
 ### Papers
 
-- Kailun Luo, Yongmei Liu. Automatic Verification of FSA Strategies via Counterexample-Guided Local Search for Invariants. IJCAI-2019 ([DBLP])(https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun)
+- Kailun Luo, Yongmei Liu. Automatic Verification of FSA Strategies via Counterexample-Guided Local Search for Invariants. IJCAI-2019 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun)
 
 ### Education
 
