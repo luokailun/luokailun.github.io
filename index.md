@@ -25,8 +25,8 @@ My main research area is Knowledge Representation and Reasoning in Artificial In
 
 ### Education
 
-- B.S., Computer Science, [South China Normal University](http://cs.scnu.edu.cn), 09/2013 - 06/2015
-- M.S., Computer Science, [Sun Yat-sen University](http://sdcs.sysu.edu.cn), 09/2009 - 06/2013
+- M.S., Computer Science, [Sun Yat-sen University](http://sdcs.sysu.edu.cn), 09/2013 - 06/2015
+- B.S., Computer Science, [South China Normal University](http://cs.scnu.edu.cn), 09/2009 - 06/2013
 
 ### Activities
 
