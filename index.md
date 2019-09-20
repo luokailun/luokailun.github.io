@@ -15,7 +15,7 @@ I a now an Ph.D. student in [Dept.of Computer Science in Sun Yat-sen University]
 
 ### Currently
 
-I am working on the projects of [Agent Abstraction via forgetting](https://github.com/luokailun/planning-abstraction) and [Synthesis of General Strategies]()
+I am working on the projects of [Agent Abstraction via forgetting](https://github.com/luokailun/planning-abstraction) and [Synthesis of General Strategies](https://github.com/luokailun/synthesizer)
 
 ### Research
 
