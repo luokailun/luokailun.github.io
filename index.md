@@ -13,11 +13,14 @@ I a now an Ph.D. student in [Dept.of Computer Science in Sun Yat-sen University]
   >Email: luokl3@mail2.sysu.edu.cn
 
 
+### Currently
 
+I am working on the projects of [Agent Abstraction via forgetting](https://github.com/luokailun/planning-abstraction) and [Synthesis of General Strategies]()
 
 ### Research
 
-My main research area is Knowledge Representation and Reasoning in Artificial Intelligence. My research interest is Reasoning about Actions, Situation Calculus, Verification and Synthesis of Generalized forms of Strategies. 
+My main research area is Knowledge Representation and Reasoning in Artificial Intelligence. My research interest is Situation Calculus, Verification and Synthesis of General Strategies, Abstraction. 
+
 
 ### Papers
 
