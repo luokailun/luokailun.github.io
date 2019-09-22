@@ -1,7 +1,7 @@
 # Kailun Luo 
 ![mypc](pc.jpg)
 
-I a now a Ph.D. student in [Dept.of Computer Science in Sun Yat-sen University](http://sdcs.sysu.edu.cn). My advisor is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490).
+I am now a Ph.D. student in [Dept.of Computer Science in Sun Yat-sen University](http://sdcs.sysu.edu.cn). My advisor is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490).
 
 
   >Kailun Luo
