@@ -19,7 +19,7 @@ I am working on the projects of [Agent Abstraction via forgetting](https://githu
 
 ### Research
 
-My main research area is Knowledge Representation and Reasoning in Artificial Intelligence. My research interest is Situation Calculus, Verification and Synthesis of General Strategies, Abstraction. 
+My main research area is Knowledge Representation and Reasoning in Artificial Intelligence. My research interest is Situation Calculus, Reasoning about Strategies, Verification and Synthesis of General Strategies, and Abstraction Technologies. 
 
 
 ### Papers
