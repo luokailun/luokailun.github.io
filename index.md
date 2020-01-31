@@ -24,7 +24,7 @@ My main research area is Knowledge Representation and Reasoning in Artificial In
 
 ### Papers
 
-- Kailun Luo, Yongmei Liu, Yves Lesp{\'{e}} and Ziliang Lin. Agent Abstraction via Forgetting in  the Situation Calculus. To appear in ECAI-2020.
+- Kailun Luo, Yongmei Liu, Yves Lesperance and Ziliang Lin. Agent Abstraction via Forgetting in  the Situation Calculus. To appear in ECAI-2020.
 
 - Kailun Luo, Yongmei Liu. Automatic Verification of FSA Strategies via Counterexample-Guided Local Search for Invariants. IJCAI-2019 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun)
 
