@@ -40,19 +40,22 @@ Presentations in [IJCAI-19](https://www.ijcai19.org)[(sildes)](kailun_ijcai_2019
 
 ### Course
 
-Algorithm Design and Analysis
+##Algorithm Design and Analysis
 
-- Course 1 [(sildes)](course/algo1.pdf)
-- Course 2 [(sildes)](course/algo2.pdf)
-- Course 3 [(sildes)](course/algo3.pdf)
-- Course 4 [(sildes)](course/algo4.pdf)
-- Course 5 [(sildes)](course/algo5.pdf)
-- Course 6 [(sildes)](course/algo6.pdf)
-- Course 7 [(sildes)](course/algo7.pdf)
-- Course 8 [(sildes)](course/algo8.pdf)
+#content
 
+- Course 1 [(sildes1)](algo1-1.pdf) [(sildes2)](algo1-2.pdf)
+- Course 2 [(sildes)](algo2.pdf)
+- Course 3 [(sildes)](algo3.pdf)
+- Course 4 [(sildes)](algo4.pdf)
+- Course 5 [(sildes)](algo5.pdf)
+- Course 6 [(sildes)](algo6.pdf)
+- Course 7 [(sildes)](algo7.pdf)
+- Course 8 [(sildes)](algo8.pdf)
 
+#other materials:
 
-
+- 中国幕课北航的《算法设计与分析》
+- 书籍：《算法》 配套网站 algs4.cs.princeton.edu 还提供了本书内容摘要以及相关代码、测试数据、编程练习、教学课件等资源，有需要的同学们可以自行查找。
 
 
