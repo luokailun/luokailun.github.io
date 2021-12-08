@@ -14,16 +14,16 @@ Before that I got my Ph.D. degree in [Dept.of Computer Science in Sun Yat-sen Un
   >Email: luokl@dgut.edu.cn
 
 
-### Currently
+## Currently
 
 I am working on the projects of [Agent Abstraction via forgetting](https://github.com/luokailun/planning-abstraction) and [Synthesis of General Strategies](https://github.com/luokailun/synthesizer)
 
-### Research
+## Research
 
 My main research area is Knowledge Representation and Reasoning in Artificial Intelligence. My research interest is Situation Calculus, Reasoning about Strategies, Verification and Synthesis of General Strategies, and the Application of Abstraction Technologies on Verification and Synthesis. 
 
 
-### Papers
+## Papers
 
 - Kailun Luo and Yongmei Liu. Automated Synthesis of Generalized Invariant Strategies via Counterexample-guided Strategy Refinement. To appear in AAAI-2022.
 
@@ -33,25 +33,25 @@ My main research area is Knowledge Representation and Reasoning in Artificial In
 
 - Kailun Luo and Yongmei Liu. Automatic Verification of FSA Strategies via Counterexample-Guided Local Search for Invariants. IJCAI-2019 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun).
 
-### Education
+## Education
 - Ph.D., Computer Science, [Sun Yat-sen University](http://sdcs.sysu.edu.cn), 09/2013 - 06/2015 (pre), 09/2015 - 06/2020
 - B.Sc., Computer Science, [South China Normal University](http://cs.scnu.edu.cn), 09/2009 - 06/2013
 
-### Activities
+## Activities
 
 Presentations in ECAI-2020, [IJCAI-19](https://www.ijcai19.org)[(sildes)](kailun_ijcai_2019.pdf), [KRW-2019](http://kr2019.sgmtu.edu.cn), KRW-2016
 
 
-### Services
+## Services
 
 - IJCAI-2022 PC member
 - IJCAI-2021 PC member
 
-### Courses
+## Courses
 
-## Algorithm Design and Analysis
+### Algorithm Design and Analysis
 
-# content
+#### content
 
 - Lecture 1 [(sildes1)](algo1-1.pdf) [(sildes2)](algo1-2.pdf)
 - Lecture 2 [(sildes)](algo2.pdf)
@@ -62,7 +62,7 @@ Presentations in ECAI-2020, [IJCAI-19](https://www.ijcai19.org)[(sildes)](kailun
 - Lecture 7 [(sildes)](algo7.pdf)
 - Lecture 8 [(sildes)](algo8.pdf)
 
-# other materials:
+#### other materials:
 
 - 中国幕课北航的《算法设计与分析》
 - 书籍《算法》 的配套网站 algs4.cs.princeton.edu
