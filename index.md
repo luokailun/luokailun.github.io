@@ -1,7 +1,7 @@
 # Kailun Luo 
 ![mypc](photo33.jpg)
 
-I am now a lecture in the Department of Software Engineering,  Dongguan University of Technology (DGUT). 
+I am now a lecture in Department of Software Engineering,  Dongguan University of Technology (DGUT). 
 Before that I got my Ph.D. degree in [Dept.of Computer Science in Sun Yat-sen University](http://sdcs.sysu.edu.cn). My advisor is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490).
 
 
@@ -34,9 +34,9 @@ My main research area is Knowledge Representation and Reasoning in Artificial In
 - Kailun Luo and Yongmei Liu. Automatic Verification of FSA Strategies via Counterexample-Guided Local Search for Invariants. IJCAI-2019 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun).
 
 ### Education
-
-- M.S., Computer Science, [Sun Yat-sen University](http://sdcs.sysu.edu.cn), 09/2013 - 06/2015
-- B.S., Computer Science, [South China Normal University](http://cs.scnu.edu.cn), 09/2009 - 06/2013
+- Ph.D., Computer Science, [Sun Yat-sen University](http://sdcs.sysu.edu.cn), 09/2015 - 06/2020
+- Computer Science, [Sun Yat-sen University](http://sdcs.sysu.edu.cn), 09/2013 - 06/2015
+- B.Sc., Computer Science, [South China Normal University](http://cs.scnu.edu.cn), 09/2009 - 06/2013
 
 ### Activities
 
@@ -60,6 +60,6 @@ Presentations in [IJCAI-19](https://www.ijcai19.org)[(sildes)](kailun_ijcai_2019
 #other materials:
 
 - 中国幕课北航的《算法设计与分析》
-- 书籍：《算法》 配套网站 algs4.cs.princeton.edu 还提供了本书内容摘要以及相关代码、测试数据、编程练习、教学课件等资源，有需要的同学们可以自行查找。
+- 书籍《算法》 的配套网站 algs4.cs.princeton.edu
 
 
