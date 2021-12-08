@@ -1,13 +1,13 @@
 # Kailun Luo 
 ![mypc](photo33.jpg)
 
-I am now a lecture in DGUT. 
+I am now a lecture in the Department of Software Engineering,  Dongguan University of Technology (DGUT). 
 Before that I got my Ph.D. degree in [Dept.of Computer Science in Sun Yat-sen University](http://sdcs.sysu.edu.cn). My advisor is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490).
 
 
   >Kailun Luo
   
-  >Address: DongGuan,China
+  >Address: Dongguan University of Technology, DaXue Road No.1, SongShan Lake, DongGuan, China
   
   >Tel: +86-15915711238
   
@@ -20,14 +20,18 @@ I am working on the projects of [Agent Abstraction via forgetting](https://githu
 
 ### Research
 
-My main research area is Knowledge Representation and Reasoning in Artificial Intelligence. My research interest is Situation Calculus, Reasoning about Strategies, Verification and Synthesis of General Strategies, and Abstraction Technologies. 
+My main research area is Knowledge Representation and Reasoning in Artificial Intelligence. My research interest is Situation Calculus, Reasoning about Strategies, Verification and Synthesis of General Strategies, and the Application of Abstraction Technologies on Verification and Synthsis. 
 
 
 ### Papers
 
-- Kailun Luo, Yongmei Liu, Yves Lesperance and Ziliang Lin. Agent Abstraction via Forgetting in  the Situation Calculus. To appear in ECAI-2020.
+- Kailun Luo and Yongmei Liu. Automated Synthesis of Generalized Invariant Strategies via Counterexample-guided Strategy Refinement. To appear in AAAI-2022.
 
-- Kailun Luo, Yongmei Liu. Automatic Verification of FSA Strategies via Counterexample-Guided Local Search for Invariants. IJCAI-2019 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun)
+- Zhenhe Cui, Yongmei Liu and Kailun Luo. A Uniform Abstraction Framework for Generalized Planning. IJCAI-2020 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun).
+
+- Kailun Luo, Yongmei Liu, Yves Lesperance and Ziliang Lin. Agent Abstraction via Forgetting in  the Situation Calculus. ECAI-2020 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun).
+
+- Kailun Luo and Yongmei Liu. Automatic Verification of FSA Strategies via Counterexample-Guided Local Search for Invariants. IJCAI-2019 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun).
 
 ### Education
 
