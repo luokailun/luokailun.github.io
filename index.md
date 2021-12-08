@@ -1,13 +1,13 @@
 # Kailun Luo 
 ![mypc](pc.jpg)
 
-I am now a leture in DGUT. 
-Before that I get my Ph.D. degree in [Dept.of Computer Science in Sun Yat-sen University](http://sdcs.sysu.edu.cn). My advisor is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490).
+I am now a lecture in DGUT. 
+Before that I got my Ph.D. degree in [Dept.of Computer Science in Sun Yat-sen University](http://sdcs.sysu.edu.cn). My advisor is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490).
 
 
   >Kailun Luo
   
-  >Address: No.132 East Waihuan Road, Higher Education Mega center,510006, DongGuan,China
+  >Address: DongGuan,China
   
   >Tel: +86-15915711238
   
@@ -41,6 +41,15 @@ Presentations in [IJCAI-19](https://www.ijcai19.org)[(sildes)](kailun_ijcai_2019
 ### Course
 
 Algorithm Design and Analysis
+
+- Course 1 [(sildes)](course/algo1.pdf)
+- Course 2 [(sildes)](course/algo2.pdf)
+- Course 3 [(sildes)](course/algo3.pdf)
+- Course 4 [(sildes)](course/algo4.pdf)
+- Course 5 [(sildes)](course/algo5.pdf)
+- Course 6 [(sildes)](course/algo6.pdf)
+- Course 7 [(sildes)](course/algo7.pdf)
+- Course 8 [(sildes)](course/algo8.pdf)
 
 
 
