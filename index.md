@@ -1,5 +1,5 @@
 # Kailun Luo 
-![mypc](pc.jpg)
+![mypc](photo33.pdf)
 
 I am now a lecture in DGUT. 
 Before that I got my Ph.D. degree in [Dept.of Computer Science in Sun Yat-sen University](http://sdcs.sysu.edu.cn). My advisor is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490).
