@@ -1,16 +1,17 @@
 # Kailun Luo 
 ![mypc](pc.jpg)
 
-I am now a Ph.D. student in [Dept.of Computer Science in Sun Yat-sen University](http://sdcs.sysu.edu.cn). My advisor is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490).
+I am now a leture in DGUT. 
+Before that I get my Ph.D. degree in [Dept.of Computer Science in Sun Yat-sen University](http://sdcs.sysu.edu.cn). My advisor is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490).
 
 
   >Kailun Luo
   
-  >Address: No.132 East Waihuan Road, Higher Education Mega center,510006, Guangzhou,China
+  >Address: No.132 East Waihuan Road, Higher Education Mega center,510006, DongGuan,China
   
   >Tel: +86-15915711238
   
-  >Email: luokl3@mail2.sysu.edu.cn
+  >Email: luokl@dgut.edu.cn
 
 
 ### Currently
@@ -36,5 +37,13 @@ My main research area is Knowledge Representation and Reasoning in Artificial In
 ### Activities
 
 Presentations in [IJCAI-19](https://www.ijcai19.org)[(sildes)](kailun_ijcai_2019.pdf), [KRW-2019](http://kr2019.sgmtu.edu.cn), KRW-2016
+
+### Course
+
+Algorithm Design and Analysis
+
+
+
+
 
 
