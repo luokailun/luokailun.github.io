@@ -1,11 +1,10 @@
 # Kailun Luo 
 ![mypc](photo33.jpg)
 
-I am now a lecture in Department of Software Engineering,  Dongguan University of Technology (DGUT). 
+I am now a lecturer in Department of Software Engineering,  Dongguan University of Technology (DGUT). 
 Before that I got my Ph.D. degree in [Dept.of Computer Science in Sun Yat-sen University](http://sdcs.sysu.edu.cn), where my advisor is [Prof.Yongmei Liu](http://sdcs.sysu.edu.cn/content/2490).
 
 
-  >Kailun Luo
   
   >Address: Dongguan University of Technology, DaXue Road No.1, SongShan Lake, DongGuan, China
   
