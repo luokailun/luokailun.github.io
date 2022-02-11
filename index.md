@@ -17,12 +17,16 @@ Before that I got my Ph.D. degree in [Dept.of Computer Science in Sun Yat-sen Un
 
 I am working on the projects of [Agent Abstraction via forgetting](https://github.com/luokailun/planning-abstraction) and [Synthesis of General Strategies](https://github.com/luokailun/synthesizer)
 
+
 ## Research
 
-My main research area is Knowledge Representation and Reasoning (KRR) in Artificial Intelligence. My research interest is Situation Calculus, Reasoning about Strategies, Verification and Synthesis of General Strategies, and the Application of Abstraction Technologies on Verification and Synthesis. 
+My main research area is Knowledge Representation and Reasoning (KRR) in Artificial Intelligence. My research interest is Situation Calculus, Reasoning about Strategies, Verification and Synthesis of General/Generalized Strategies, and the Application of Abstraction Technologies on Formal Verification and Synthesis. 
 
 
-## Papers
+I am now also interested in Reinforcement Learning, Automated Testing and Formal Verification of Security Protocols.
+
+
+## Publications
 
 - Kailun Luo and Yongmei Liu. Automated Synthesis of Generalized Invariant Strategies via Counterexample-guided Strategy Refinement. To appear in AAAI-2022. (CCF A, one of the two top-tier conferences in KRR)
 
