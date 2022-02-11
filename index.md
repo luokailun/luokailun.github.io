@@ -28,7 +28,7 @@ My main research area is Knowledge Representation and Reasoning (KRR) in Artific
 
 - Zhenhe Cui, Yongmei Liu and Kailun Luo. A Uniform Abstraction Framework for Generalized Planning. IJCAI-2021 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun).  (CCF A, one of the two top-tier conferences in KRR)
 
-- Kailun Luo, Yongmei Liu, Yves Lesperance and Ziliang Lin. Agent Abstraction via Forgetting in  the Situation Calculus. ECAI-2020 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun).
+- Kailun Luo, Yongmei Liu, Yves Lesperance and Ziliang Lin. Agent Abstraction via Forgetting in  the Situation Calculus. ECAI-2020 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun). (CCF B)
 
 - Kailun Luo and Yongmei Liu. Automatic Verification of FSA Strategies via Counterexample-Guided Local Search for Invariants. IJCAI-2019 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun).  (CCF A, one of the two top-tier conferences in KRR)
 
