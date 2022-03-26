@@ -1,8 +1,8 @@
 # Kailun Luo 
 ![mypc](photo2.jpg)
 
-I am now a lecturer in the Department of Software Engineering,  Dongguan University of Technology (DGUT). 
-Before that I got my Ph.D. degree in [Dept.of Computer Science in Sun Yat-sen University](http://sdcs.sysu.edu.cn)
+I am now a lecturer in Department of Software Engineering,  Dongguan University of Technology (DGUT). 
+Before that I got my Ph.D. degree in [Department of Computer Science, Sun Yat-sen University](http://sdcs.sysu.edu.cn)
 
 
   
@@ -37,12 +37,12 @@ I am now also interested in Reinforcement Learning, Automated Testing and Formal
 - Kailun Luo and Yongmei Liu. Automatic Verification of FSA Strategies via Counterexample-Guided Local Search for Invariants. IJCAI-2019 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun).  (CCF A, one of the two top-tier conferences in KRR)
 
 ## Education
-- Ph.D., Computer Science, [Sun Yat-sen University](http://sdcs.sysu.edu.cn), 09/2013 - 06/2015 (pre), 09/2015 - 06/2020
+- Ph.D., Computer Science, [Sun Yat-sen University](http://sdcs.sysu.edu.cn), 09/2013 - 06/2020 (master-doctor combind program)
 - B.Sc., Computer Science, [South China Normal University](http://cs.scnu.edu.cn), 09/2009 - 06/2013
 
 ## Activities
 
-Presentations in AAAI-22, ECAI-2020, [IJCAI-19](https://www.ijcai19.org)[(sildes)](kailun_ijcai_2019.pdf), [KRW-2019](http://kr2019.sgmtu.edu.cn), KRW-2016
+Presentations in AAAI-22[(sildes)](slides_long_11166.pdf), ECAI-2020[(sildes)](slides_978_Kailun_Luo.pdf), [IJCAI-19](https://www.ijcai19.org)[(sildes)](kailun_ijcai_2019.pdf), [KRW-2019](http://kr2019.sgmtu.edu.cn), KRW-2016
 
 
 ## Services
