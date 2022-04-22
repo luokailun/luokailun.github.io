@@ -1,5 +1,5 @@
 # Kailun Luo 
-![mypc](photo2.jpg)
+![mypc](new1.jpg)
 
 I am now a lecturer in Department of Software Engineering,  Dongguan University of Technology (DGUT). 
 Before that I got my Ph.D. degree in [Department of Computer Science, Sun Yat-sen University](http://sdcs.sysu.edu.cn)
