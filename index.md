@@ -1,21 +1,33 @@
 # Kailun Luo 
 ![mypc](photo2.jpg)
 
-I am now a lecturer in Department of Software Engineering,  Dongguan University of Technology (DGUT). 
+I am now an Associate Research Professor in Department of Cyberspace Security, Dongguan University of Technology (DGUT). 
 Before that I got my Ph.D. degree in [Department of Computer Science, Sun Yat-sen University](http://sdcs.sysu.edu.cn)
 
 
-  
   >Address: Dongguan University of Technology, DaXue Road No.1, SongShan Lake, DongGuan, China
   
   >Tel: +86-15915711238
   
   >Email: luokl@dgut.edu.cn
 
+  >Office: 9A 204-7
+
 
 ## Currently
 
-I am working on the projects of [Agent Abstraction via forgetting](https://github.com/luokailun/planning-abstraction) and [Synthesis of General Strategies](https://github.com/luokailun/synthesizer)
+I am working on the projects of [Agent Abstraction via forgetting](https://github.com/luokailun/planning-abstraction) and [Synthesis of General Strategies](https://github.com/luokailun/synthesizer).
+
+I am also working on 
+
+- Explainable Artificial Intelligence (XAI) 
+  可解释的人工智能
+  
+- Key Technologies for Intelligent Customer Service
+  智能客服的关键技术
+
+- Key Technologies for Intelligent Drones
+  智能无人机的关键技术
 
 
 ## Research
@@ -26,15 +38,23 @@ My main research area is Knowledge Representation and Reasoning (KRR) in Artific
 I am now also interested in Reinforcement Learning, Automated Testing and Formal Verification of Security Protocols.
 
 
+## Grants
+
+January 1, 2023 - December 31, 2025: Automatic Synthesis of Explainable Abstractions for Intelligent Planning; National Natural Science Foundation of China; Young Scientists Fund Project; 62206055; Principal Investigator.
+
+
 ## Publications
 
-- Kailun Luo and Yongmei Liu. Automated Synthesis of Generalized Invariant Strategies via Counterexample-guided Strategy Refinement. To appear in AAAI-2022. (CCF A, one of the two top-tier conferences in KRR)
+- Kailun Luo. Automated Verification of Propositional Agent Abstraction for Classical Planning via CTLK Model Checking. AAAI-2023.
+  (CCF A, one of the three top-tier conferences in KRR)
 
-- Zhenhe Cui, Yongmei Liu and Kailun Luo. A Uniform Abstraction Framework for Generalized Planning. IJCAI-2021 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun).  (CCF A, one of the two top-tier conferences in KRR)
+- Kailun Luo and Yongmei Liu. Automated Synthesis of Generalized Invariant Strategies via Counterexample-guided Strategy Refinement. AAAI-2022. (CCF A, one of the three top-tier conferences in KRR)
+
+- Zhenhe Cui, Yongmei Liu and Kailun Luo. A Uniform Abstraction Framework for Generalized Planning. IJCAI-2021 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun).  (CCF A, one of the three top-tier conferences in KRR)
 
 - Kailun Luo, Yongmei Liu, Yves Lesperance and Ziliang Lin. Agent Abstraction via Forgetting in  the Situation Calculus. ECAI-2020 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun). (CCF B)
 
-- Kailun Luo and Yongmei Liu. Automatic Verification of FSA Strategies via Counterexample-Guided Local Search for Invariants. IJCAI-2019 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun).  (CCF A, one of the two top-tier conferences in KRR)
+- Kailun Luo and Yongmei Liu. Automatic Verification of FSA Strategies via Counterexample-Guided Local Search for Invariants. IJCAI-2019 [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Luo:Kailun).  (CCF A, one of the three top-tier conferences in KRR)
 
 ## Education
 - Ph.D., Computer Science, [Sun Yat-sen University](http://sdcs.sysu.edu.cn), 09/2013 - 06/2020 (master-doctor combind program)
@@ -47,10 +67,24 @@ Presentations in AAAI-22[(sildes)](slides_long_11166.pdf), ECAI-2020[(sildes)](s
 
 ## Services
 
+- IJCAI-2023 PC member
+- ECAI-2023 PC member
 - IJCAI-2022 PC member
 - IJCAI-2021 PC member
 
+
+## Master's Students
+
+- Xuan Liu (2022)
+- Zhirong Liang (2023)
+- Zhentao Li (2023)
+- Xiang Li (2023)
+  
+
 ## Courses
+
+
+## 
 
 ### Algorithm Design and Analysis
 
